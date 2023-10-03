@@ -1,7 +1,7 @@
 {
-  "name": "basic_setup",
+  "name": "basic-solid-setup",
   "version": "1.0.0",
-  "description": "Basic Cloudflare Pages Setup",
+  "description": "Basic Solid Pages Setup",
   "private": true,
   "scripts": {
     "build": "webpack --config webpack.dev.config.js",
